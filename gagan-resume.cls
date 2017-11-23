@@ -36,7 +36,7 @@
 \textblockorigin{0mm}{5mm} % start everyth
 \newcommand{\lastupdated}{\begin{textblock}{60}(165,0)
 \color{date}\fontspec[Path = fonts/raleway/]{Raleway-ExtraLight}\fontsize{8pt}{10pt}\selectfont 
-Last Updated on
+Last Updated:
 \today
 \end{textblock}}
 
@@ -77,3 +77,4 @@ Last Updated on
 
 % Bullet Lists with fewer gaps command
 \newenvironment{tightemize}{\vspace{-\topsep}\begin{itemize}\itemsep1pt \parskip0pt \parsep0pt}{\end{itemize}\vspace{-\topsep}}
+
